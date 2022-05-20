@@ -210,7 +210,7 @@
       <p>I am a web developer and I love to create websites.</p>
       <button>Learn More</button>
     </div>
-    <div class="achievements">
+    <div class="achievements/rewards">
       <div class="work">
         <i class="fas fa-atom"></i>
         <p class="work-heading">Projects</p>
